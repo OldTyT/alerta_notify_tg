@@ -1,0 +1,9 @@
+{
+    "alerta_username": "alerta_username",
+    "alerta_password": "alerta_password",
+    "alerta_url": "https://alerta.io",
+    "alert_query": "/alerts?sort-by=lastReceiveTime&status=open",
+    "time_sleep": 30,
+    "telegram_token": "1234567890:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "telegram_chat": 12345678
+}
