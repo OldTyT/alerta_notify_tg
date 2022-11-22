@@ -17,5 +17,5 @@ type OtherCFG struct {
 var (
 	Notifier NotifierCFG
 	Other    OtherCFG
-	Version  string = "v0.0.1"
+	Version  string = "v0.0.2"
 )

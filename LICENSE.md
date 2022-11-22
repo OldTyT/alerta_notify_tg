@@ -1,4 +1,4 @@
-If you are using alerta_notify, I'd love to hear about it.  Let Ilya know
+If you are using alerta_notify_tg, I'd love to hear about it.  Let Ilya know
 by sending an email to nezlobin118@gmail.com.
 
 And if you happen to come across either developer for this project, you
